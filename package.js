@@ -1,6 +1,6 @@
 Package.describe({
   "summary": "Performance Monitoring for Meteor",
-  "version": "2.36.1",
+  "version": "2.36.2",
   "git": "https://github.com/PlaidypusDev/monti-apm-agent.git",
   "name": "conorstrejcek:agent"
 });
